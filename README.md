@@ -19,6 +19,8 @@ A personal learning repository containing learning material about PHP MVC Concep
 2. Router
 3. Controller
 4. Path Variable
-5. Middleware
-6. Local Domain
-7. Apache HTTPD Server
+5. Model
+6. View
+7. Middleware
+8. Local Domain
+9. Apache HTTPD Server
